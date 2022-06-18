@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Kalkulator napiwków</string>
+    <string name="cost_of_service">Koszt obsługi</string>
+    <string name="service_question">Jak oceniasz obsługę?</string>
+    <string name="amazing_service">Wspaniała 20%</string>
+    <string name="good_service">Dobra 18%</string>
+    <string name="ok_service">Poprawna 15%</string>
+    <string name="round_up_tip">Czy zaokrąglić napiwek?</string>
+    <string name="calculate">Przelicz</string>
+    <string name="tip_amount">Wartość napiwka</string>
 </resources>
