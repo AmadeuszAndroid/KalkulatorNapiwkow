@@ -52,7 +52,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/cost_of_service"
         android:layout_marginTop="16dp"
-        android:layout_marginStart="32dp"/>
+        android:layout_marginStart="32dp"
+        style="@style/Widget.TipTime.TextView"/>
 
     <RadioGroup
         android:id="@+id/tip_options"
@@ -120,6 +121,7 @@
         tools:text="Wartość napiwka: 10 zł"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/calculate_button"
-        android:layout_marginTop="8dp"/>
+        android:layout_marginTop="8dp"
+        style="@style/Widget.TipTime.TextView"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
